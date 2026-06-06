@@ -131,7 +131,7 @@ Recommended strategies:
 
 ### Dashboard Screenshot
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Ecommerce dashboard.PNG)
 
 ---
 
