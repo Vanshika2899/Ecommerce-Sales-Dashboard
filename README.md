@@ -131,7 +131,7 @@ Recommended strategies:
 
 ### Dashboard Screenshot
 
-[Dashboard](Ecommercedashboard.PNG)
+[Dashboard](https://github.com/Vanshika2899/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20dashboard.PNG)
 
 ---
 
